@@ -1,4 +1,4 @@
-# Hi 👋, I'm Mohiuddin Showrov
+# Hi , I'm Mohiuddin Showrov
 
 ### A passionate Data Science Engineer from Bangladesh
 
@@ -40,7 +40,8 @@ I have experience in data analysis, machine learning model building, and data vi
 ## 🎓 Education:
 
 **B.Sc. in computer science and engineering**
-Daffodil International university - 2022 to 2026
+ at Daffodil International university 
+ 2022 to 2026
 ---
 
 ## 📊 GitHub Stats:
